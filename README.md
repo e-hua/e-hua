@@ -6,8 +6,8 @@
 
 ## 🛠 Tech Stack
 - **Languages:** Java, JavaScript, Python  
-- **Frontend:** React (Vite), Tailwind CSS  
-- **Backend:** Spring Boot, Node.js  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Spring Boot, Node.js, Express.js
 - **Database & Cloud:** PostgreSQL, AWS (EC2, S3, RDS)  
 
 
